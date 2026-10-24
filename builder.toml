@@ -38,7 +38,7 @@ description = "Ubuntu 22.04 Jammy Jellyfish base image with buildpacks for Java,
 
 [[buildpacks]]
   uri = "docker://ghcr.io/octopilot/rust:0.1.18"
-  version = "0.1.17"
+  version = "0.1.18"
 
 [[buildpacks]]
   uri = "docker://ghcr.io/octopilot/helm:0.1.3"
